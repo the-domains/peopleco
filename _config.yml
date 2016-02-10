@@ -1,7 +1,7 @@
 name: peopleco
 favicon: null
-layout_spectrum: 0.51201
-typography_spectrum: 0.76437
+layout_spectrum: 0.036575669422745705
+typography_spectrum: 0.4367516974452883
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#8379fc'
-    - '#e2a880'
-    - '#ff70fe'
-    - '#f15a4f'
-  brandStrength: 0.5
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.5065047622192651
   lightness: 0.40074071916751564
   saturation: 0.6132423479575664
   rhythmicContrast: 0.7635444493498653
